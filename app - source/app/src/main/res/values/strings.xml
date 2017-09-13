@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SMC Complaints</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_camera">Send Complaint</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_login">Login</string>
+    <string name="gps_network_not_enabled">hello</string>
+    <string name="open_location_settings">open</string>
+    <string name="Cancel">cancel</string>
+</resources>
